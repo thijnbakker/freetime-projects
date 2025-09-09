@@ -1,18 +1,17 @@
-# This .gitignore is appropriate for repositories deployed to GitHub Pages and using
-# a Gemfile as specified at https://github.com/github/pages-gem#conventional
+# Ignore all images + models in Graph2Table_Part_1
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/dataset.zip
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/dataset_part1
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/dataset_part1_fixed
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/dataset_part1_resized
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/dataset_part1_split
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/test images
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/*.h5
 
-# Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
 
-# Additional Ruby/bundler ignore for when you run: bundle install
-/vendor
-
-# Specific ignore for GitHub Pages
-# GitHub Pages will always use its own deployed version of pages-gem 
-# This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
-# counterproductive to check this file into the repository.
-# Details at https://github.com/github/pages-gem/issues/768
-Gemfile.lock
+# Ignore all images + model in Graph2Table_Part_1/Pipeline
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/dataset_part1
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/dataset_part1_fixed
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/dataset_part1_resized
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/dataset_part1_split
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/test images
+/solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/*.h5
