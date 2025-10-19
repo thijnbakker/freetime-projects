@@ -15,3 +15,6 @@
 /solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/dataset_part1_split
 /solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/test images
 /solo_projects/Graph2Table_Challenge/Graph2Table_Part_1/Pipeline/*.h5
+
+# Ignore priavate files
+/solo_projects/Ikea
